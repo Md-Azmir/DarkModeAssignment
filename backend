@@ -1,0 +1,21 @@
+# routes are defined paths that determine how requests to a specific URL should be handled by the server. These routes link URLs to specific handlers, typically functions or controllers, that process the request and return a response.
+For example, in a Node.js/Express backend, you define routes to handle HTTP requests (GET, POST, PUT, DELETE) for different resources like users, products, orders, etc.
+1. GET:
+    1.Used to retrieve data from the server.
+    2.Typically employed for read-only operations.
+    3.Commonly used for fetching resources.
+2. POST:
+    1.Used to create new resources on the server.
+    2.Requests typically include a payload in the request body.
+    3.Commonly used for submitting data to be processed or stored.
+3. PUT:
+    1.Used to update existing resources on the server.
+    2.Typically requires the client to send the complete resource representation.
+    3.Commonly used for updating existing records.
+4. PATCH:
+    1.Similar to PUT but used to apply partial modifications to a resource.
+    2.Allows clients to specify only the changes to be made.
+    3.Commonly used for making partial updates to resources.
+5. DELETE:
+    1.Used to remove resources from the server.
+    2.Commonly used for deleting resources.
