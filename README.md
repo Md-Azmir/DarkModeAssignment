@@ -4,7 +4,7 @@ The Dark-Mode is a simple web application that allows users to switch between da
 
 Question 1. Provide a brief description of all routes in the backend system. 
 
-# routes are defined paths that determine how requests to a specific URL should be handled by the server. These routes link URLs to specific handlers, typically functions or controllers, that process the request and return a response.
+routes are defined paths that determine how requests to a specific URL should be handled by the server. These routes link URLs to specific handlers, typically functions or controllers, that process the request and return a response.
 For example, in a Node.js/Express backend, you define routes to handle HTTP requests (GET, POST, PUT, DELETE) for different resources like users, products, orders, etc.
 1. GET:
     1.Used to retrieve data from the server.
