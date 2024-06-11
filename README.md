@@ -14,7 +14,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/Md-Azmir/Notes-App.git
+git clone https://github.com/Md-Azmir/DarkModeAssignment.git
 
 Install dependencies:
 
